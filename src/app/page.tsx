@@ -1,5 +1,7 @@
 export default function Home() {
   return (
-    <h1>Bem-vindo a Loja La Bella Dona de roupas femininas</h1>
+    <div>
+      <h1>Bem-vindo a Loja La Bella Dona</h1>
+    </div>
   );
 }
